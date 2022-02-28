@@ -1,2 +1,2 @@
 # stepik_auto_tests
-E5
+<h1>классное задание</h1> 
